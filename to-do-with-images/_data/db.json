@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "projectTitle": "Marketing Website Revamp",
+      "title": "Create wireframes for landing page",
+      "description": "Draft low-fidelity wireframes for the homepage and about page.",
+      "assignedBy": "Alice (Team Lead)",
+      "assignedTo": "Bob (UI Designer)",
+      "createdAt": "2025-04-06T10:00:00",
+      "dueDate": "2025-04-10",
+      "priority": "High",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "projectTitle": "Mobile App MVP",
+      "title": "Setup authentication flow",
+      "description": "Implement login and registration screens using Firebase.",
+      "assignedBy": "David (Senior Dev)",
+      "assignedTo": "Emma (Junior Dev)",
+      "createdAt": "2025-04-05T14:30:00",
+      "dueDate": "2025-04-12",
+      "priority": "Medium",
+      "status": "Pending"
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+import { produce } from './../../node_modules/immer/src/immer';
 export const endpoints ={
-    register: "/register"
+    todos:"/todos"
+
 }
